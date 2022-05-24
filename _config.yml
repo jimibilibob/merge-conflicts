@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
+resume_avatar: 
 resume_name:                    "Surftocat"
 resume_title:                   "Professional Surfer"
 resume_contact_email:           "surftocat@github.com"
